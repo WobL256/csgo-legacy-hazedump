@@ -1,6 +1,6 @@
 # The most up-to-date hazedump of CS:GO
 
-This dump has been made on **May 31st 2024**,
+This dump has been made on **May 30th 2024**,
 quite a while after the last update the game has
 received in April 2023 so it should be all good
 for some time. 
