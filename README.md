@@ -8,3 +8,11 @@ for some time.
 You could also get hazedump and do it yourself
 but if you're that lazy to not do that, that's 
 why I created this repo for you ;)
+
+Please note that I will not be updating the dumps
+found on this repo, maybe only if I randomly
+happen to dump it again. So please check the
+last update on the file you're about to use
+because it may become outdated (even tho I highly
+doubt that because the game isn't getting
+updates anymore).
